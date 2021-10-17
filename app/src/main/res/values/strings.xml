@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImgurMVVM</string>
+    <string name="content_img_description">just top pic</string>
 </resources>
